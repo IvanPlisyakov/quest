@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/quest/static/css/main.fe6c140c.css",
-    "main.js": "/quest/static/js/main.c7c42c83.js",
+    "main.css": "/quest/static/css/main.1745f606.css",
+    "main.js": "/quest/static/js/main.c31e1371.js",
     "static/js/787.2e6e6aaf.chunk.js": "/quest/static/js/787.2e6e6aaf.chunk.js",
+    "static/media/forest__list-open.png": "/quest/static/media/forest__list-open.602594e59f256036e5d1.png",
     "static/media/Inter.var.woff2?v=3.15": "/quest/static/media/Inter.var.a738a131ff730bb906e6.woff2",
+    "static/media/forest.png": "/quest/static/media/forest.3d0b64919264946c8ae2.png",
     "static/media/Inter-italic.var.woff2?v=3.15": "/quest/static/media/Inter-italic.var.e2e12d2e9288439ecb06.woff2",
     "static/media/main__background.png": "/quest/static/media/main__background.3724ec7f3a854aa5c0c4.png",
     "static/media/Inter-roman.var.woff2?v=3.15": "/quest/static/media/Inter-roman.var.73d88d2ca065037a4d55.woff2",
@@ -45,6 +47,7 @@
     "static/media/Inter-Black.woff2?v=3.15": "/quest/static/media/Inter-Black.768169b1912340d378ac.woff2",
     "static/media/Inter-Thin.woff2?v=3.15": "/quest/static/media/Inter-Thin.5b7f1750a98f2f8516bb.woff2",
     "static/media/Inter-Regular.woff2?v=3.15": "/quest/static/media/Inter-Regular.26a30a5f1103393aac70.woff2",
+    "static/media/forest__list.png": "/quest/static/media/forest__list.55d12e12d28461772641.png",
     "static/media/main__profile-img.svg": "/quest/static/media/main__profile-img.4e4be9d8186b8eed5c15da922b9fccf2.svg",
     "static/media/book__right.svg": "/quest/static/media/book__right.bcffcd20516ec66e9b65361084efed46.svg",
     "static/media/book__left.svg": "/quest/static/media/book__left.c8b40c1c8606fa8ea69d6bb2df3de0ee.svg",
@@ -58,12 +61,12 @@
     "static/media/main__book.svg": "/quest/static/media/main__book.e03d5813b014d707ba34915d5dd62a8a.svg",
     "static/media/search-form__reset.svg": "/quest/static/media/search-form__reset.0278d110d529d40e9ceedae575185022.svg",
     "static/media/book__back.svg": "/quest/static/media/book__back.d545fcf9f2a3fdeefda7acec9655db80.svg",
-    "main.fe6c140c.css.map": "/quest/static/css/main.fe6c140c.css.map",
-    "main.c7c42c83.js.map": "/quest/static/js/main.c7c42c83.js.map",
+    "main.1745f606.css.map": "/quest/static/css/main.1745f606.css.map",
+    "main.c31e1371.js.map": "/quest/static/js/main.c31e1371.js.map",
     "787.2e6e6aaf.chunk.js.map": "/quest/static/js/787.2e6e6aaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe6c140c.css",
-    "static/js/main.c7c42c83.js"
+    "static/css/main.1745f606.css",
+    "static/js/main.c31e1371.js"
   ]
 }
