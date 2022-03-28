@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.css": "/quest/static/css/main.a0dc4c73.css",
-    "main.js": "/quest/static/js/main.16da921e.js",
+    "main.css": "/quest/static/css/main.bd389d73.css",
+    "main.js": "/quest/static/js/main.d8b5aeac.js",
     "static/js/787.2e6e6aaf.chunk.js": "/quest/static/js/787.2e6e6aaf.chunk.js",
+    "static/media/marina__cart-open.jpg": "/quest/static/media/marina__cart-open.220ec476e618a0619f57.jpg",
+    "static/media/marina__abacus-open.jpg": "/quest/static/media/marina__abacus-open.9c20bf416abfdd4f27af.jpg",
+    "static/media/forest.jpg": "/quest/static/media/forest.64f07dc4b935cd505546.jpg",
+    "static/media/marina.jpg": "/quest/static/media/marina.a37eba37cee6a93c41b4.jpg",
     "static/media/forest__list-open.png": "/quest/static/media/forest__list-open.602594e59f256036e5d1.png",
     "static/media/Inter.var.woff2?v=3.15": "/quest/static/media/Inter.var.a738a131ff730bb906e6.woff2",
-    "static/media/forest.png": "/quest/static/media/forest.3d0b64919264946c8ae2.png",
     "static/media/Inter-italic.var.woff2?v=3.15": "/quest/static/media/Inter-italic.var.e2e12d2e9288439ecb06.woff2",
     "static/media/main__background.png": "/quest/static/media/main__background.3724ec7f3a854aa5c0c4.png",
     "static/media/Inter-roman.var.woff2?v=3.15": "/quest/static/media/Inter-roman.var.73d88d2ca065037a4d55.woff2",
@@ -47,6 +50,8 @@
     "static/media/Inter-Black.woff2?v=3.15": "/quest/static/media/Inter-Black.768169b1912340d378ac.woff2",
     "static/media/Inter-Thin.woff2?v=3.15": "/quest/static/media/Inter-Thin.5b7f1750a98f2f8516bb.woff2",
     "static/media/Inter-Regular.woff2?v=3.15": "/quest/static/media/Inter-Regular.26a30a5f1103393aac70.woff2",
+    "static/media/marina__cart.png": "/quest/static/media/marina__cart.87f8e8953658fe3548e7.png",
+    "static/media/marina__abacus.png": "/quest/static/media/marina__abacus.44029a37a516010ca545.png",
     "static/media/book__triangle.png": "/quest/static/media/book__triangle.e74f79fe5bce92de6822.png",
     "static/media/forest__list.png": "/quest/static/media/forest__list.55d12e12d28461772641.png",
     "static/media/main__profile-img.svg": "/quest/static/media/main__profile-img.4e4be9d8186b8eed5c15da922b9fccf2.svg",
@@ -62,12 +67,12 @@
     "static/media/main__book.svg": "/quest/static/media/main__book.e03d5813b014d707ba34915d5dd62a8a.svg",
     "static/media/search-form__reset.svg": "/quest/static/media/search-form__reset.0278d110d529d40e9ceedae575185022.svg",
     "static/media/book__back.svg": "/quest/static/media/book__back.d545fcf9f2a3fdeefda7acec9655db80.svg",
-    "main.a0dc4c73.css.map": "/quest/static/css/main.a0dc4c73.css.map",
-    "main.16da921e.js.map": "/quest/static/js/main.16da921e.js.map",
+    "main.bd389d73.css.map": "/quest/static/css/main.bd389d73.css.map",
+    "main.d8b5aeac.js.map": "/quest/static/js/main.d8b5aeac.js.map",
     "787.2e6e6aaf.chunk.js.map": "/quest/static/js/787.2e6e6aaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0dc4c73.css",
-    "static/js/main.16da921e.js"
+    "static/css/main.bd389d73.css",
+    "static/js/main.d8b5aeac.js"
   ]
 }
