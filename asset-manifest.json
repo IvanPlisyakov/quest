@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/quest/static/css/main.4dd4f74d.css",
-    "main.js": "/quest/static/js/main.587b2b3a.js",
+    "main.js": "/quest/static/js/main.85186b6a.js",
     "static/js/787.2e6e6aaf.chunk.js": "/quest/static/js/787.2e6e6aaf.chunk.js",
     "static/media/marina__cart-open.jpg": "/quest/static/media/marina__cart-open.220ec476e618a0619f57.jpg",
     "static/media/marina__abacus-open.jpg": "/quest/static/media/marina__abacus-open.9c20bf416abfdd4f27af.jpg",
@@ -69,11 +69,11 @@
     "static/media/search-form__reset.svg": "/quest/static/media/search-form__reset.0278d110d529d40e9ceedae575185022.svg",
     "static/media/book__back.svg": "/quest/static/media/book__back.d545fcf9f2a3fdeefda7acec9655db80.svg",
     "main.4dd4f74d.css.map": "/quest/static/css/main.4dd4f74d.css.map",
-    "main.587b2b3a.js.map": "/quest/static/js/main.587b2b3a.js.map",
+    "main.85186b6a.js.map": "/quest/static/js/main.85186b6a.js.map",
     "787.2e6e6aaf.chunk.js.map": "/quest/static/js/787.2e6e6aaf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4dd4f74d.css",
-    "static/js/main.587b2b3a.js"
+    "static/js/main.85186b6a.js"
   ]
 }
